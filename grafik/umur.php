@@ -1,0 +1,1 @@
+<canvas id="myChartUsia" width="300" height="150"></canvas>
